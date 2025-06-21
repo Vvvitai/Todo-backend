@@ -1,0 +1,33 @@
+{
+  "title": "Продукты",
+  "entries": [
+    {
+      "title": "Мясное",
+      "entries": [
+        {
+          "title": "Сосиски",
+          "entries": [
+            {
+              "title": "С сыром",
+              "entries": []
+            }
+          ]
+        },
+        {
+          "title": "Колбаса",
+          "entries": [
+            {
+              "title": "Салями",
+              "entries": [
+                {
+                  "title": "Курица",
+                  "entries": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
