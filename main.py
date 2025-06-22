@@ -12,7 +12,7 @@ class Settings(BaseSettings):
 
 
 settings = Settings()
-app = FastAPI(title='Todo backend', description='Приложение списка дел, где есть рекурсия')
+app = FastAPI(title='Todo backend', description='Приложение списка дел, где есть рекурсия и я проверяю бранч')
 
 origins = [
     "http://localhost:8000",
