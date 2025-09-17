@@ -8,7 +8,7 @@ import uvicorn
 
 
 class Settings(BaseSettings):
-    data_folder: str = 'C:\\Users\\vital\\PycharmProjects\\Todo_list'
+    data_folder: str = 'C:\\Users\\vitos\\PycharmProjects\\Todo-backend'
 
 
 settings = Settings()
